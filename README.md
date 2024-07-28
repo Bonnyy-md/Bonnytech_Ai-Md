@@ -10,10 +10,10 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
-<p align="center"> Introducing 𝘽𝙤𝙣𝙣𝙮𝙩𝙚𝙘𝙝_𝘼𝙞-𝙈𝙙, A Simple WhatsApp user BOT, Created by topu Tech.
+<p align="center"> Introducing 𝘽𝙤𝙣𝙣𝙮𝙩𝙚𝙘𝙝_𝘼𝙞-𝙈𝙙, A Simple WhatsApp user BOT, Created by BONNY TECH AI.
 </p>
 
-  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/b2132d88b7f9363976ba1.jpg" alt="01" border="0" /></a>                     
+  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/05378a8f946530491c69d.jpg" alt="01" border="0" /></a>                     
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>&</a>
  ## 🚀 `Bot Features`
 | Feature                          | Description                                             | Available    | Version    |
